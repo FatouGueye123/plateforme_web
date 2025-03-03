@@ -1,0 +1,217 @@
+D.S 2018 : Aspects éthiques et juridiques des TICs
+Cas pratiques
+1/ Atteinte à la vie privée et droit à l’image d’un couple photographié
+Lorsqu’un internaute publie une photo d’un couple clairement identifiable sans leur consentement, il peut y avoir atteinte à la vie privée et violation du droit à l’image.
+
+Pourquoi y a-t-il une atteinte aux droits du couple ?
+Le droit à l’image protège toute personne identifiable dans une photo diffusée publiquement.
+L’atteinte à la vie privée concerne la divulgation non autorisée d’informations personnelles (ici, leur présence à Paris).
+Que peut faire l’internaute pour éviter une violation ?
+Obtenir le consentement des personnes visibles avant publication.
+Pixelliser ou flouter les visages pour rendre le couple méconnaissable.
+Ne pas diffuser la photo publiquement ou la partager uniquement avec des personnes autorisées.
+2/ Vidéo publiée sans consentement et données personnelles
+Un jeune homme a publié une vidéo où l’image d’une amie a été capturée sans son consentement.
+
+Éléments pouvant être considérés comme des données personnelles
+L’image de la jeune fille : toute photo ou vidéo permettant d’identifier une personne est une donnée personnelle.
+Son nom, si mentionné dans la vidéo ou la description.
+L’endroit et le contexte de la vidéo (lycée, soirée).
+Définition de la donnée à caractère personnel
+Une donnée à caractère personnel est toute information permettant d’identifier directement ou indirectement une personne physique (nom, image, voix, adresse, etc.).
+
+Risques pour le jeune homme
+Infraction au droit à l’image et à la vie privée.
+Sanctions légales possibles, surtout si la diffusion nuit à la réputation de la jeune fille.
+Comment la jeune fille peut-elle réagir ?
+Demander la suppression immédiate de la vidéo.
+Saisir la Commission des Données Personnelles (CDP) ou une autorité judiciaire.
+Poursuivre l’auteur en justice en cas de refus ou de préjudice subi.
+3/ Violation de contrat et protection d’un logiciel
+Samba Diouf, directeur d’INFO PLUS, a signé un contrat avec Dakar Shop pour un usage exclusif de son logiciel. Cependant, ce logiciel est utilisé par une autre entreprise concurrente.
+
+Quelle action en justice peut-il entreprendre ?
+Violation de propriété intellectuelle et contrefaçon :
+Si le logiciel est protégé par un dépôt de brevet ou un droit d’auteur, l’usage par un tiers est illégal.
+INFO PLUS peut demander une interdiction immédiate d’utilisation par la société concurrente.
+Rupture abusive du contrat par Dakar Shop :
+Si Dakar Shop a cédé illégalement le logiciel à un concurrent, elle peut être poursuivie pour non-respect des clauses contractuelles.
+Que peut réclamer INFO PLUS ?
+Dommages et intérêts pour préjudice économique.
+Retrait immédiat du logiciel chez la société concurrente.
+Sanctions contre Dakar Shop pour non-respect du contrat.
+4/ Usurpation d’identité sur Facebook et responsabilité du réseau social
+Khadija a perdu son téléphone et découvre que des photos et vidéos d’elle ont été postées sur Facebook par un inconnu.
+
+Quels recours a-t-elle pour protéger sa personnalité ?
+Signaler immédiatement le compte frauduleux à Facebook via le formulaire de signalement.
+Porter plainte pour usurpation d’identité et atteinte à la vie privée auprès de la police ou de la CDP.
+Exiger la suppression des publications et du compte de Malik Fall.
+Facebook peut-il être tenu responsable ?
+En principe, Facebook n’est pas directement responsable, mais a l’obligation de réagir rapidement après un signalement.
+Si Facebook refuse ou tarde à agir, Khadija peut saisir la justice pour négligence dans la modération des contenus nuisibles.
+
+----------------------------------------
+I/ Répondre aux questions suivantes (4 points)
+Le texte qui fixe les principes de la société sénégalaise de l’information
+Le texte de référence est la Loi n° 2008-08 du 25 janvier 2008 portant sur les transactions électroniques et la protection des données à caractère personnel.
+
+Première étape du volet législatif et réglementaire
+La première étape a été l'adoption de la Loi n° 2008-08 et de ses textes d'application, qui établissent un cadre juridique favorable au développement des TIC au Sénégal.
+
+Rôle de l’ADIE (Agence de l'Informatique de l'État du Sénégal)
+L’ADIE a pour mission de développer et sécuriser les systèmes d’information de l’État, promouvoir la dématérialisation des services administratifs et renforcer la souveraineté numérique du Sénégal.
+
+Rôle de la Commission des données personnelles (CDP)
+La CDP est chargée de veiller à la protection des données personnelles des citoyens, de contrôler la conformité des traitements de données et de sanctionner les infractions liées à la vie privée numérique.
+
+II/ Définition des termes suivants (5 points)
+Les TICs (Technologies de l'Information et de la Communication)
+Ensemble des technologies permettant la production, le traitement, le stockage et la diffusion de l'information via des supports numériques.
+
+Les données personnelles
+Informations permettant d’identifier une personne, directement ou indirectement (nom, adresse, numéro de téléphone, adresse IP, etc.).
+
+La cybercriminalité
+Ensemble des infractions commises via des outils informatiques ou Internet, telles que le piratage, l’escroquerie en ligne, l’usurpation d’identité, etc.
+
+Le commerce électronique
+Ensemble des transactions commerciales effectuées à distance via des réseaux numériques, notamment les achats en ligne.
+
+Le nom de domaine
+Adresse unique permettant d’identifier un site web sur Internet (ex. : www.exemple.com).
+
+III/ Problème soulevé par l’article 27 du nouveau code des communications numériques (2 points)
+L’article 27 du nouveau code des communications électroniques pose un problème lié à la protection des données personnelles. Il peut permettre une surveillance accrue des communications par l’État, ce qui pourrait entraîner une atteinte à la vie privée des citoyens et des risques de censure.
+
+IV/ Infraction introduite dans le nouveau code pénal (2 points)
+Une infraction importante introduite dans le nouveau code pénal sénégalais est la criminalisation de l’usurpation d’identité numérique. Cela vise à lutter contre les faux profils, le cyberharcèlement et la diffusion de fausses informations. Ce changement s'explique par la nécessité de mieux protéger les citoyens contre les dérives numériques et les abus en ligne.
+
+V/ Cas pratique : précautions pour publier des photos sur un site étudiant (2 points)
+Avant de publier des photos des étudiants, il faut :
+
+Obtenir le consentement écrit des personnes photographiées.
+S’assurer que les photos ne portent pas atteinte à la dignité ou à la vie privée des individus.
+Flouter les visages si nécessaire pour protéger l’anonymat.
+Respecter les règles de la CDP en matière de données personnelles.
+VI/ Cas pratique : Protection de la marque "Solalima" (5 points)
+Que faire face à un concurrent qui utilise un nom de domaine similaire ?
+Vous pouvez engager une action pour concurrence déloyale et cybersquatting en saisissant les autorités compétentes comme la CDP, l’OMPI (Organisation Mondiale de la Propriété Intellectuelle) ou la justice sénégalaise.
+
+Comment protéger un nom de domaine contre son utilisation abusive ?
+
+Déposer le nom de domaine auprès d’un registrar reconnu et sous plusieurs extensions (.com, .sn, etc.).
+Surveiller l’usage du nom de domaine via des services spécialisés.
+Agir en justice si un tiers utilise un nom similaire pour créer la confusion.
+Deux conditions pour assurer la protection de la marque
+
+Enregistrer la marque auprès de l’OAPI (Organisation Africaine de la Propriété Intellectuelle).
+Prouver l’usage commercial effectif de la marque (publicité, factures, site web actif).
+---------------------------------------------------------------
+Correction complète du DS : Aspects éthiques et juridiques des TIC
+I/ Répondre aux questions suivantes (6 points)
+Citer trois (3) textes qui réglementent l’accès à l’information et l’usage des TIC au Sénégal :
+
+La loi n° 2008-12 du 25 janvier 2008 sur la protection des données à caractère personnel.
+Le Code des communications électroniques (anciennement Code des télécommunications).
+La loi n° 2016-29 du 8 novembre 2016 portant Code de la Presse.
+Définition des communications électroniques selon l’ARTP :
+
+L’ARTP (Autorité de Régulation des Télécommunications et des Postes) définit les communications électroniques comme toute transmission de signaux par un réseau de télécommunications, y compris Internet, la téléphonie et la radiodiffusion.
+Explication de l’article 27 du Code des communications électroniques :
+
+Cet article fixe les conditions d’utilisation des TIC pour assurer un usage sécurisé et éthique des technologies de l’information. Il encadre notamment l’exploitation des réseaux, la protection des données personnelles et la lutte contre les abus numériques.
+Pourquoi le législateur a-t-il modifié la loi n° 2013-450 du 27 décembre 2013 ?
+
+Pour adapter la loi à l’évolution rapide des TIC et garantir une meilleure protection des usagers face aux nouvelles menaces numériques.
+Pour renforcer la régulation des contenus numériques et lutter contre la cybercriminalité.
+Définition de la cryptologie :
+
+La cryptologie est la science du chiffrement et du déchiffrement des données. Elle permet de sécuriser les informations en les rendant inaccessibles aux personnes non autorisées.
+Quels sont les défis juridiques liés aux TIC ?
+
+Protection des données personnelles.
+Lutte contre la cybercriminalité (fraude, piratage, fake news).
+Régulation des contenus numériques et des plateformes en ligne.
+II/ Donner la bonne définition des termes suivants (5 points)
+Les données personnelles :
+
+Ce sont des informations permettant d’identifier directement ou indirectement une personne (nom, adresse, numéro de téléphone, image, email, etc.).
+La cybersécurité :
+
+C’est l’ensemble des mesures techniques et réglementaires visant à protéger les systèmes informatiques et les données contre les attaques, fraudes et intrusions.
+L’informatique et liberté :
+
+Principe visant à assurer la protection des individus face à l’utilisation abusive de leurs données personnelles par les systèmes informatiques.
+Les TIC (Technologies de l’Information et de la Communication) :
+
+Ce sont les technologies permettant de produire, stocker, traiter et transmettre de l’information via Internet, la téléphonie, les réseaux sociaux, etc.
+La cryptologie :
+
+Science du chiffrement et de la protection des communications et des données contre les accès non autorisés.
+III/ Explication de l’article 10 de la Constitution et identification des limites (2 points)
+L’article 10 de la Constitution du Sénégal garantit la liberté d’expression et d’opinion.
+Trois limites principales :
+Respect de la vie privée et protection des données personnelles.
+Interdiction des propos diffamatoires, haineux ou discriminatoires.
+Encadrement des contenus en ligne pour lutter contre les fake news et le terrorisme.
+IV/ Déterminer les responsabilités d’un responsable de traitement de données (2 points)
+Garantir la confidentialité et la sécurité des données.
+Respecter la réglementation sur la protection des données (consentement, durée de conservation, droit à l’oubli).
+Assurer la transparence sur l’usage des données et permettre aux utilisateurs de les modifier ou supprimer si nécessaire.
+V/ Cas pratiques (6 points)
+1. Un hacker a introduit un programme sur votre ordinateur pour espionner vos informations personnelles. Quelle action pouvez-vous mener ? (3 points)
+Actions possibles :
+Porter plainte pour piratage informatique et atteinte à la vie privée.
+Sécuriser ses comptes en changeant ses mots de passe et en utilisant l’authentification à deux facteurs.
+Utiliser un antivirus et un pare-feu pour éviter d’autres intrusions.
+2. Vous avez constaté que votre voisin espionne vos activités informatiques. Quelle action pouvez-vous mener ? (3 points)
+Actions possibles :
+Sécuriser son Wi-Fi en changeant le mot de passe et en activant le chiffrement.
+Signaler l’intrusion aux autorités compétentes si l’espionnage est avéré.
+Installer des logiciels de protection pour éviter l’accès non autorisé à son ordinateur.
+________________________________________________________
+La loi sur la protection des données personnelles
+📜 Exemple au Sénégal : Loi n° 2008-12 du 25 janvier 2008
+
+Objectif : Protéger la vie privée et les informations personnelles des citoyens.
+Principes fondamentaux :
+Consentement obligatoire pour collecter des données personnelles.
+Droit d’accès et de rectification des données.
+Obligation de sécurisation des bases de données.
+Interdiction du traitement des données sensibles sans autorisation spécifique.
+Autorité de contrôle : Commission de Protection des Données Personnelles (CDP).
+
+1. Loi n° 2008-11 du 25 janvier 2008
+📌 Objet : Loi portant sur les transactions électroniques
+
+Objectif : Réguler l’usage du commerce électronique, des signatures électroniques et des contrats numériques au Sénégal.
+Principaux points :
+Reconnaissance légale des documents électroniques (contrats, factures, etc.).
+Encadrement de l’utilisation des signatures électroniques.
+Établissement de règles pour la preuve électronique en justice.
+Responsabilités des prestataires de services de certification électronique.
+Protection des consommateurs dans le commerce en ligne.
+
+2. Loi n° 2008-10 du 25 janvier 2008
+📌 Objet : Loi portant sur la cybercriminalité
+
+Objectif : Lutter contre les infractions liées aux technologies de l’information et de la communication (TIC).
+Principaux délits couverts :
+Accès frauduleux à un système informatique (hacking).
+Modification, suppression ou vol de données informatiques.
+Usurpation d’identité numérique.
+Escroquerie et fraude en ligne (phishing, arnaques).
+Cyberharcèlement, diffamation et diffusion de contenus illégaux.
+Piratage de logiciels et violation de droits d’auteur numériques.
+
+3. Loi n° 2008-08 du 25 janvier 2008
+📌 Objet : Loi sur les données à caractère personnel
+
+Objectif : Protéger les données personnelles des citoyens et encadrer leur traitement.
+Principaux points :
+Consentement obligatoire pour collecter des données personnelles.
+Droit d’accès, de rectification et d’opposition pour les citoyens.
+Encadrement strict des données sensibles (origine ethnique, opinions politiques, etc.).
+Obligation pour les entreprises de sécuriser les bases de données.
+Création de la Commission de Protection des Données Personnelles (CDP) chargée de veiller au respect de la loi.
